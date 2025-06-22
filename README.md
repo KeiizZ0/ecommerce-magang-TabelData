@@ -34,7 +34,6 @@ Desain database ini dirancang untuk mendukung kebutuhan dasar sistem e-commerce 
 <h4>Kelebihan Desain Ini</h4>
 
 1. Mudah Dikembangkan: Spring Boot menyederhanakan pengembangan dengan konfigurasi otomatis dan embedded server.
-
-2.Cepat Dideploy: Hanya perlu menjalankan satu aplikasi, tanpa perlu mengelola banyak service terpisah.
+2. Cepat Dideploy: Hanya perlu menjalankan satu aplikasi, tanpa perlu mengelola banyak service terpisah.
 
 
