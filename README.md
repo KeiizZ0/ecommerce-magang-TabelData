@@ -18,3 +18,7 @@
 4. Inversion of Control adalah prinsip yang dimana kontrol alur program diserahkan ke framework. sementara Dependency Injection adalah implementasi IoC dengan menyediakan dependensi atau kebutuhan program secara otomatis.
 
 5.. Java adalah bahasa pemrograman berorientasi objek yang multiplatform, sementara spring boot adalah framework Java yang menyederhanakan pengembangan aplikasi, juga cocok untuk membangun REST API atau aplikasi monolith/microservice, juga aplikasi website.
+
+<h3>Desain Database</h3>
+
+ ![desaindatabase](DesainDatabase.png)
