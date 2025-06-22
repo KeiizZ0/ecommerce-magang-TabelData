@@ -22,3 +22,19 @@
 <h3>Desain Database</h3>
 
  ![desaindatabase](DesainDatabase.png)
+
+
+Desain database ini dirancang untuk mendukung kebutuhan dasar sistem e-commerce seperti yang terlihat pada contoh Tokopedia.
+
+<h3>Alasan Memilih design arsitektur Monolith</h3>
+
+1. Kesederhanaan dengan menggabungkan semua modul (seperti manajemen produk, keranjang belanja, dan pemrosesan order) dalam satu aplikasi Spring Boot, pengembangan dan testing menjadi lebih mudah.
+2. Efisiensi untuk Skala Kecil, terutama untuk proyek dengan skala kecil hingga menengah, monolith lebih efisien karena tidak memerlukan kompleksitas tambahan.
+
+<h4>Kelebihan Desain Ini</h4>
+
+1. Mudah Dikembangkan: Spring Boot menyederhanakan pengembangan dengan konfigurasi otomatis dan embedded server.
+
+2.Cepat Dideploy: Hanya perlu menjalankan satu aplikasi, tanpa perlu mengelola banyak service terpisah.
+
+
