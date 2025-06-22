@@ -21,7 +21,7 @@
 
 <h3>Desain Database</h3>
 
- ![desaindatabase](DesainDatabase.png)
+ ![desaindatabase](DatabaseDesign.png)
 
 
 Desain database ini dirancang untuk mendukung kebutuhan dasar sistem e-commerce seperti yang terlihat pada contoh Tokopedia.
